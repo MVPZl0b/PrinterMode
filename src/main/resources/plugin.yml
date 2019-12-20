@@ -1,0 +1,7 @@
+name: PrinterMode
+main: com.biteforcemc.printermode.Main
+version: 0.1
+author: Zack#2743
+commands:
+  printer:
+    description: none

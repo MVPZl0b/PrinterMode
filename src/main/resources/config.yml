@@ -1,0 +1,36 @@
+###########################################################
+#_____                    _         _                     #
+#|  __ \                  (_)       (_)                   #
+#| |__) |__ _ __ _ __ ___  _ ___ ___ _  ___  _ __  ___    #
+#|  ___/ _ \ '__| '_ ` _ \| / __/ __| |/ _ \| '_ \/ __|   #
+#| |  |  __/ |  | | | | | | \__ \__ \ | (_) | | | \__ \   #
+#|_|   \___|_|  |_| |_| |_|_|___/___/_|\___/|_| |_|___/   #
+###########################################################
+Permissions:
+  #Admin has all permissions default. Be careful who you give this too.
+  admin: 'printermode.admin'
+  printer: 'printermode.printer'
+  reload: 'printermode.reload'
+
+
+###########################################################
+#  ___  ___                                               #
+#  |  \/  |                                               #
+#  | .  . | ___  ___ ___  __ _  __ _  ___  ___            #
+#  | |\/| |/ _ \/ __/ __|/ _` |/ _` |/ _ \/ __|           #
+#  | |  | |  __/\__ \__ \ (_| | (_| |  __/\__ \           #
+#  \_|  |_/\___||___/___/\__,_|\__, |\___||___/           #
+#                                _/ |                     #
+#                               |___/                     #
+###########################################################
+
+Messages:
+  NO_PERM: "&cYou do not have permission to do this!"
+  USER_NOT_FOUND: "&cUser not found!"
+  RELOAD_SUCCESS: "&cSuccessfully reloaded"
+  PRINTER_MODE_ENABLE: "&ePrinter Mode has been toggled &aOn"
+  PRINTER_MODE_DISABLE: "&ePrinter Mode has been toggled &cOFF"
+  NOT_IN_SHOP: "&cThe item you are trying to place is not in the shop."
+  INSUFFICIENT_FUNDS: "&cThe item you are trying to place is too expensive for you to afford."
+  FUNDS_SPENT: "&eYou Spent &a%amount% &eWhile using printer mode."
+  NOT_IN_FACTIONS_TERRITORY: "&cYou can only use printer mode in your territory!"
